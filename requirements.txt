@@ -6,9 +6,9 @@ python>=3.7
 # lemme check and see how/where/why we would need to implement these
 
 # For Data Visualization
-# matplotlib==3.7.2
-# seaborn==0.12.2
+matplotlib==3.7.2
+seaborn==0.12.2
 
 # For Data Manipulation and Persistence
-# pandas==2.0.3
+pandas==2.0.3
 # numpy==1.25.2
