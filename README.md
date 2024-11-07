@@ -47,15 +47,15 @@ Each parameter is essential for calculating accurate energy consumption and unde
 - **Description**: The total power consumed by the equipment or building, measured in kilowatts (kW).
 - **How to Obtain**:
   - **Power Meters**: Install high-resolution power meters to measure real-time power consumption.
-  - **Utility Bills**: Refer to electricity bills which often indicate peak and average power usage.
-  - **Manufacturer Specifications**: Check the specifications of electrical equipment for their rated power consumption.
+  - **Utility Bills**: Refer to electricity bills, often indicating peak and average power usage.
+  - **Manufacturer Specifications**: Check the electrical equipment specifications for their rated power consumption.
 - **Learning Resources**:
   - [Understanding Electrical Power](https://www.electronics-tutorials.ws/power/power_1.html)
   - [How to Read a Power Meter](https://www.energy.gov/energysaver/reading-your-electric-meter)
 
 #### 2. Duration (Hours)
 
-- **Description**: The total time (in hours) that the equipment or building operates within a specific period.
+- **Description**: The time (in hours) the equipment or building operates within a specific period.
 - **How to Obtain**:
   - **Operational Logs**: Maintain logs of operational hours for equipment.
   - **Building Schedules**: Use building management schedules to determine active hours.
@@ -70,7 +70,7 @@ Each parameter is essential for calculating accurate energy consumption and unde
 - **How to Obtain**:
   - **Historical Climate Data**: Analyze past weather data to determine how different seasons affect energy usage.
   - **Energy Consumption Trends**: Review historical energy consumption records to identify seasonal patterns.
-  - **Industry Standards**: Refer to industry-specific guidelines for typical seasonal factors.
+  - **Industry Standards**: Refer to industry-specific guidelines for seasonal factors.
 - **Learning Resources**:
   - [Seasonal Energy Efficiency Ratio (SEER)](https://www.energy.gov/eere/buildings/articles/seasonal-energy-efficiency-ratio-seer)
   - [Analyzing Seasonal Energy Consumption](https://www.energy.gov/eere/buildings/articles/analyzing-seasonal-energy-consumption)
@@ -80,7 +80,7 @@ Each parameter is essential for calculating accurate energy consumption and unde
 - **Description**: A multiplier that adjusts energy consumption based on occupancy levels, typically ranging from 0.6 to 1.0.
 - **How to Obtain**:
   - **Occupancy Sensors**: Use sensors to monitor real-time occupancy levels.
-  - **Building Usage Data**: Analyze data on building usage patterns, such as number of occupants and their activity levels.
+  - **Building Usage Data**: Analyze data on building usage patterns, such as the number and activity levels of occupants.
   - **Surveys and Studies**: Conduct surveys or studies to estimate typical occupancy rates.
 - **Learning Resources**:
   - [Occupancy-Based Energy Management](https://www.energy.gov/eere/buildings/articles/occupancy-based-energy-management)
@@ -88,10 +88,10 @@ Each parameter is essential for calculating accurate energy consumption and unde
 
 #### 5. Power Factor (PF)
 
-- **Description**: A measure of how effectively electrical power is being used, typically ranging from 0.8 to 0.95.
+- **Description**: A measure of how effectively electrical power is used, typically ranging from 0.8 to 0.95.
 - **How to Obtain**:
-  - **Power Quality Meters**: Install power quality meters to measure the power factor in real-time.
-  - **Electrical System Analysis**: Perform an analysis of the electrical system to determine the power factor.
+  - **Power Quality Meters**: Install power quality meters to measure the power factor in real time.
+  - **Electrical System Analysis**: Perform an electrical system analysis to determine the power factor.
   - **Utility Company Data**: Some utility providers supply power factor information for large installations.
 - **Learning Resources**:
   - [Understanding Power Factor](https://www.electrical4u.net/electrical-power-factor/)
@@ -101,7 +101,7 @@ Each parameter is essential for calculating accurate energy consumption and unde
 
 ### Understanding the Inputs
 
-To effectively utilize the Energy Audit Tool, it's crucial to understand each input parameter and its impact on energy consumption calculations.
+Understanding each input parameter and its impact on energy consumption calculations is crucial to effectively using the Energy Audit Tool.
 
 #### Power Consumption (P)
 
@@ -115,9 +115,9 @@ To effectively utilize the Energy Audit Tool, it's crucial to understand each in
 
 #### Duration (t)
 
-**Definition**: Duration indicates the total time in hours that the equipment operates within a given period.
+**Definition**: Duration indicates the time in hours the equipment operates within a given period.
 
-**Importance**: Understanding operational hours helps in estimating total energy consumption and identifying peak usage times.
+**Importance**: Understanding operational hours helps estimate total energy consumption and identify peak usage times.
 
 **Resources**:
 - [Time Management in Energy Audits](https://www.energy.gov/eere/buildings/articles/time-management-energy-audits)
@@ -127,7 +127,7 @@ To effectively utilize the Energy Audit Tool, it's crucial to understand each in
 
 **Definition**: The seasonal adjustment factor accounts for variations in energy consumption due to seasonal changes, such as heating in winter or cooling in summer.
 
-**Importance**: Adjusting for seasonal factors provides a more accurate representation of energy usage patterns and helps in planning energy-saving measures.
+**Importance**: Adjusting for seasonal factors provides a more accurate representation of energy usage patterns and helps plan energy-saving measures.
 
 **Resources**:
 - [Seasonal Energy Consumption Analysis](https://www.energy.gov/eere/buildings/articles/seasonal-energy-consumption-analysis)
@@ -145,7 +145,7 @@ To effectively utilize the Energy Audit Tool, it's crucial to understand each in
 
 #### Power Factor (PF)
 
-**Definition**: The power factor is the ratio of real power used to do work to the apparent power flowing in the circuit, indicating the efficiency of power usage.
+**Definition**: The power factor is the ratio of real power used to do work to the apparent power flowing in the circuit, indicating power usage efficiency.
 
 **Importance**: A low power factor signifies inefficient energy usage, leading to higher electricity costs and potential penalties from utility providers.
 
@@ -157,7 +157,7 @@ To effectively utilize the Energy Audit Tool, it's crucial to understand each in
 
 ### Getting Started
 
-To begin using the Energy Audit Tool, follow the installation and usage instructions below.
+To begin using the Energy Audit Tool, you can just follow the installation and usage instructions below.
 
 #### Installation
 
@@ -176,8 +176,6 @@ To begin using the Energy Audit Tool, follow the installation and usage instruct
     pip install -r requirements.txt
     ```
 
-    *(Note: If you have additional dependencies, list them in a `requirements.txt` file.)*
-
 #### Usage
 
 1. **Run the Tool**
@@ -188,7 +186,7 @@ To begin using the Energy Audit Tool, follow the installation and usage instruct
 
 2. **Input Parameters**
 
-    When prompted, input the required parameters as described in the [Input Parameters](#input-parameters) section.
+    When prompted, please just input the required parameters as described in the [Input Parameters](#input-parameters) section.
 
 3. **View Results**
 
