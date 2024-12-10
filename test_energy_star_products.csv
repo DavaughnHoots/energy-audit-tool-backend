@@ -1,0 +1,201 @@
+,Product URL,Main Category,Sub-Category,Product Name,Model,Description,Efficiency,Features,Size,Lighting,Market,Price,Installation_Cost,Water_Removal,Efficiency_Value
+0,https://example.com/product1,Appliances,Dehumidifiers,Brand1 Whole-home Dehumidifier Model1,DHM001,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 50.0
+Energy Factor: 2.00 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 3.0",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.00,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,2400.0,1200,50.0,2.0
+1,https://example.com/product2,Appliances,Dehumidifiers,Brand2 Whole-home Dehumidifier Model2,DHM002,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 60.9
+Energy Factor: 2.03 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 3.208695652173913",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.03,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,2514.818101153505,1200,60.869565217391305,2.0306122448979593
+2,https://example.com/product3,Appliances,Dehumidifiers,Brand3 Whole-home Dehumidifier Model3,DHM003,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 71.7
+Energy Factor: 2.06 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 3.417391304347826",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.06,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,2629.6362023070096,1200,71.73913043478261,2.061224489795918
+3,https://example.com/product4,Appliances,Dehumidifiers,Brand4 Whole-home Dehumidifier Model4,DHM004,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 82.6
+Energy Factor: 2.09 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 3.626086956521739",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.09,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,2744.4543034605144,1200,82.6086956521739,2.0918367346938775
+4,https://example.com/product5,Appliances,Dehumidifiers,Brand5 Whole-home Dehumidifier Model5,DHM005,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 93.5
+Energy Factor: 2.12 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 3.8347826086956522",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.12,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,2859.2724046140193,1200,93.47826086956522,2.122448979591837
+5,https://example.com/product6,Appliances,Dehumidifiers,Brand6 Whole-home Dehumidifier Model6,DHM006,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 104.3
+Energy Factor: 2.15 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 4.043478260869565",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.15,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,2974.090505767524,1200,104.34782608695653,2.1530612244897958
+6,https://example.com/product7,Appliances,Dehumidifiers,Brand7 Whole-home Dehumidifier Model7,DHM007,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 115.2
+Energy Factor: 2.18 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 4.252173913043478",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.18,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,3088.908606921029,1200,115.21739130434783,2.183673469387755
+7,https://example.com/product8,Appliances,Dehumidifiers,Brand8 Whole-home Dehumidifier Model8,DHM008,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 126.1
+Energy Factor: 2.21 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 4.460869565217392",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.21,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,3203.726708074534,1200,126.08695652173913,2.2142857142857144
+8,https://example.com/product9,Appliances,Dehumidifiers,Brand9 Whole-home Dehumidifier Model9,DHM009,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 137.0
+Energy Factor: 2.24 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 4.6695652173913045",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.24,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,3318.544809228039,1200,136.95652173913044,2.2448979591836733
+9,https://example.com/product10,Appliances,Dehumidifiers,Brand10 Whole-home Dehumidifier Model10,DHM010,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 147.8
+Energy Factor: 2.28 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 4.878260869565217",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.28,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,3433.3629103815438,1200,147.82608695652175,2.2755102040816326
+10,https://example.com/product11,Appliances,Dehumidifiers,Brand11 Whole-home Dehumidifier Model11,DHM011,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 158.7
+Energy Factor: 2.31 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 5.086956521739131",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.31,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,3548.181011535049,1200,158.69565217391306,2.306122448979592
+11,https://example.com/product12,Appliances,Dehumidifiers,Brand12 Whole-home Dehumidifier Model12,DHM012,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 169.6
+Energy Factor: 2.34 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 5.2956521739130435",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.34,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,3662.999112688554,1200,169.56521739130434,2.336734693877551
+12,https://example.com/product13,Appliances,Dehumidifiers,Brand13 Whole-home Dehumidifier Model13,DHM013,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 180.4
+Energy Factor: 2.37 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 5.504347826086956",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.37,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,3777.8172138420587,1200,180.43478260869566,2.36734693877551
+13,https://example.com/product14,Appliances,Dehumidifiers,Brand14 Whole-home Dehumidifier Model14,DHM014,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 191.3
+Energy Factor: 2.40 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 5.71304347826087",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.40,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,3892.635314995564,1200,191.30434782608697,2.3979591836734695
+14,https://example.com/product15,Appliances,Dehumidifiers,Brand15 Whole-home Dehumidifier Model15,DHM015,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 202.2
+Energy Factor: 2.43 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 5.921739130434783",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.43,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,4007.4534161490683,1200,202.17391304347825,2.4285714285714284
+15,https://example.com/product16,Appliances,Dehumidifiers,Brand16 Whole-home Dehumidifier Model16,DHM016,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 213.0
+Energy Factor: 2.46 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 6.130434782608695",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.46,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,4122.271517302573,1200,213.04347826086956,2.4591836734693877
+16,https://example.com/product17,Appliances,Dehumidifiers,Brand17 Whole-home Dehumidifier Model17,DHM017,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 223.9
+Energy Factor: 2.49 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 6.339130434782609",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.49,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,4237.089618456079,1200,223.91304347826087,2.489795918367347
+17,https://example.com/product18,Appliances,Dehumidifiers,Brand18 Whole-home Dehumidifier Model18,DHM018,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 234.8
+Energy Factor: 2.52 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 6.547826086956522",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.52,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,4351.907719609583,1200,234.7826086956522,2.520408163265306
+18,https://example.com/product19,Appliances,Dehumidifiers,Brand19 Whole-home Dehumidifier Model19,DHM019,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 245.7
+Energy Factor: 2.55 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 6.756521739130434",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.55,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,4466.725820763088,1200,245.6521739130435,2.5510204081632653
+19,https://example.com/product20,Appliances,Dehumidifiers,Brand20 Whole-home Dehumidifier Model20,DHM020,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 256.5
+Energy Factor: 2.58 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 6.965217391304348",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.58,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,4581.543921916593,1200,256.52173913043475,2.5816326530612246
+20,https://example.com/product21,Appliances,Dehumidifiers,Brand21 Whole-home Dehumidifier Model21,DHM021,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 267.4
+Energy Factor: 2.61 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 7.173913043478261",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.61,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,4696.362023070098,1200,267.3913043478261,2.612244897959184
+21,https://example.com/product22,Appliances,Dehumidifiers,Brand22 Whole-home Dehumidifier Model22,DHM022,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 278.3
+Energy Factor: 2.64 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 7.3826086956521735",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.64,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,4811.180124223602,1200,278.2608695652174,2.642857142857143
+22,https://example.com/product23,Appliances,Dehumidifiers,Brand23 Whole-home Dehumidifier Model23,DHM023,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 289.1
+Energy Factor: 2.67 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 7.591304347826087",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.67,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,4925.998225377108,1200,289.1304347826087,2.673469387755102
+23,https://example.com/product24,Appliances,Dehumidifiers,Brand24 Whole-home Dehumidifier Model24,DHM024,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 300.0
+Energy Factor: 2.70 L/kWh
+Whole-home Dehumidifier Case Volume (ft3): 7.8",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.70,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,5040.816326530612,1200,300.0,2.704081632653061
+24,https://example.com/product25,Appliances,Dehumidifiers,Brand25 Portable Dehumidifier Model25,DHM025,"Dehumidifier Type: Whole-home Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 20.0
+Energy Factor: 2.73 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.73,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1546.938775510204,500,20.0,2.7346938775510203
+25,https://example.com/product26,Appliances,Dehumidifiers,Brand26 Portable Dehumidifier Model26,DHM026,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 22.0
+Energy Factor: 2.77 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.77,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1573.061224489796,500,22.0,2.7653061224489797
+26,https://example.com/product27,Appliances,Dehumidifiers,Brand27 Portable Dehumidifier Model27,DHM027,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 24.0
+Energy Factor: 2.80 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.80,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1599.183673469388,500,24.0,2.795918367346939
+27,https://example.com/product28,Appliances,Dehumidifiers,Brand28 Portable Dehumidifier Model28,DHM028,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 26.0
+Energy Factor: 2.83 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.83,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1625.3061224489795,500,26.0,2.826530612244898
+28,https://example.com/product29,Appliances,Dehumidifiers,Brand29 Portable Dehumidifier Model29,DHM029,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 28.0
+Energy Factor: 2.86 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.86,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1651.4285714285716,500,28.0,2.857142857142857
+29,https://example.com/product30,Appliances,Dehumidifiers,Brand30 Portable Dehumidifier Model30,DHM030,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 30.0
+Energy Factor: 2.89 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.89,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1677.5510204081634,500,30.0,2.887755102040816
+30,https://example.com/product31,Appliances,Dehumidifiers,Brand31 Portable Dehumidifier Model31,DHM031,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 32.0
+Energy Factor: 2.92 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.92,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1703.6734693877552,500,32.0,2.9183673469387754
+31,https://example.com/product32,Appliances,Dehumidifiers,Brand32 Portable Dehumidifier Model32,DHM032,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 34.0
+Energy Factor: 2.95 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.95,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1729.795918367347,500,34.0,2.9489795918367347
+32,https://example.com/product33,Appliances,Dehumidifiers,Brand33 Portable Dehumidifier Model33,DHM033,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 36.0
+Energy Factor: 2.98 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 2.98,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1755.9183673469388,500,36.0,2.979591836734694
+33,https://example.com/product34,Appliances,Dehumidifiers,Brand34 Portable Dehumidifier Model34,DHM034,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 38.0
+Energy Factor: 3.01 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.01,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1782.0408163265306,500,38.0,3.010204081632653
+34,https://example.com/product35,Appliances,Dehumidifiers,Brand35 Portable Dehumidifier Model35,DHM035,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 40.0
+Energy Factor: 3.04 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.04,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1808.1632653061224,500,40.0,3.0408163265306123
+35,https://example.com/product36,Appliances,Dehumidifiers,Brand36 Portable Dehumidifier Model36,DHM036,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 42.0
+Energy Factor: 3.07 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.07,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1834.2857142857142,500,42.0,3.071428571428571
+36,https://example.com/product37,Appliances,Dehumidifiers,Brand37 Portable Dehumidifier Model37,DHM037,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 44.0
+Energy Factor: 3.10 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.10,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1860.408163265306,500,44.0,3.1020408163265305
+37,https://example.com/product38,Appliances,Dehumidifiers,Brand38 Portable Dehumidifier Model38,DHM038,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 46.0
+Energy Factor: 3.13 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.13,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1886.5306122448978,500,46.0,3.13265306122449
+38,https://example.com/product39,Appliances,Dehumidifiers,Brand39 Portable Dehumidifier Model39,DHM039,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 48.0
+Energy Factor: 3.16 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.16,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1912.6530612244899,500,48.0,3.163265306122449
+39,https://example.com/product40,Appliances,Dehumidifiers,Brand40 Portable Dehumidifier Model40,DHM040,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 50.0
+Energy Factor: 3.19 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.19,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1938.7755102040815,500,50.0,3.193877551020408
+40,https://example.com/product41,Appliances,Dehumidifiers,Brand41 Portable Dehumidifier Model41,DHM041,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 52.0
+Energy Factor: 3.22 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.22,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1964.8979591836735,500,52.0,3.2244897959183674
+41,https://example.com/product42,Appliances,Dehumidifiers,Brand42 Portable Dehumidifier Model42,DHM042,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 54.0
+Energy Factor: 3.26 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.26,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,1991.0204081632653,500,54.0,3.2551020408163263
+42,https://example.com/product43,Appliances,Dehumidifiers,Brand43 Portable Dehumidifier Model43,DHM043,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 56.0
+Energy Factor: 3.29 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.29,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,2017.142857142857,500,56.0,3.2857142857142856
+43,https://example.com/product44,Appliances,Dehumidifiers,Brand44 Portable Dehumidifier Model44,DHM044,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 58.0
+Energy Factor: 3.32 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.32,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,2043.2653061224491,500,58.0,3.316326530612245
+44,https://example.com/product45,Appliances,Dehumidifiers,Brand45 Portable Dehumidifier Model45,DHM045,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 60.0
+Energy Factor: 3.35 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.35,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,2069.387755102041,500,60.0,3.3469387755102042
+45,https://example.com/product46,Appliances,Dehumidifiers,Brand46 Portable Dehumidifier Model46,DHM046,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 62.0
+Energy Factor: 3.38 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.38,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,2095.5102040816328,500,62.0,3.377551020408163
+46,https://example.com/product47,Appliances,Dehumidifiers,Brand47 Portable Dehumidifier Model47,DHM047,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 64.0
+Energy Factor: 3.41 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.41,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,2121.6326530612246,500,64.0,3.4081632653061225
+47,https://example.com/product48,Appliances,Dehumidifiers,Brand48 Portable Dehumidifier Model48,DHM048,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 66.0
+Energy Factor: 3.44 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.44,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,2147.7551020408164,500,66.0,3.4387755102040813
+48,https://example.com/product49,Appliances,Dehumidifiers,Brand49 Portable Dehumidifier Model49,DHM049,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 68.0
+Energy Factor: 3.47 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.47,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,2173.877551020408,500,68.0,3.4693877551020407
+49,https://example.com/product50,Appliances,Dehumidifiers,Brand50 Portable Dehumidifier Model50,DHM050,"Dehumidifier Type: Portable Dehumidifier
+Dehumidifier Water Removal Capacity (pints/day): 70.0
+Energy Factor: 3.50 L/kWh
+",Dehumidifier Efficiency (Integrated Energy Factor - L/kWh): 3.50,ENERGY STAR Certified: Yes,,,Date Available on Market: 01/01/2024 Markets: United States,2200.0,500,70.0,3.5
